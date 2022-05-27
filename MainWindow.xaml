@@ -109,6 +109,11 @@
                 <DropShadowEffect Color="Gray" ShadowDepth="2" />
             </Button.Effect>
         </Button>
+        <Button x:Name="btn_negorpos" Content="-/+" Margin="350,110" Click="btn_percent_Click" Foreground="Blue"  >
+            <Button.Effect>
+                <DropShadowEffect Color="Gray" ShadowDepth="2" />
+            </Button.Effect>
+        </Button>
         
         
 
